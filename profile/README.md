@@ -32,7 +32,7 @@ Kami adalah tim pengembang yang berdedikasi membangun ekosistem digital UMC.
 | **Rizqi Noor Fauzan** | Backend Developer | [@janfdev](https://github.com/janfdev)     |
 | **Muhammad Hafidz**         | 🛠 Frontend Developer   | [@](https://github.com/username2) |
 | **Azrul Mufti Umam**         | 🎨 UI/UX  | [@username3](https://github.com/username3) |
-| **Bagus Aji**         | Quality Assurance  | [@username3](https://github.com/username3) |
+| **Baji**         | Quality Assurance  | [@username3](https://github.com/bajiff) |
 
 > _Ingin berkontribusi? Silakan hubungi [Lead Developer](https://github.com/janfdev) kami._
 
